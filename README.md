@@ -1,7 +1,6 @@
 # hddm_workshop
 Material for a basic **HDDM Tutorial Workshop**. Click [here](https://github.com/hddm-devs/hddm) for more information about the **HDDM** python package, including extensive [documentation](https://hddm.readthedocs.io/en/latest/).
 
-
 The **code-examples** for the workshop are in the `workshop_main.ipynb` *notebook*.
 Included in the presentation are a few **depictions of graphical models**, the source code for which sits in 
 the `workshop_daft_models.ipynb` *notebook*.
